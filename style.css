@@ -1,0 +1,32 @@
+*{
+ margin:0;
+ padding:0;
+}
+body{
+ background-color: #091921;
+
+}
+
+.container{
+ display:grid;
+place-items:center ;
+width: 100%;
+height:90vh;
+}
+
+button{
+height:20vh;
+width:30vw ;
+background-color: coral;
+font-size:100px;
+color:black;
+}
+
+input{
+ height:20vh;
+ width:30vw ;
+ background-color:white;
+font-size:100px;
+color:blue;
+text-align: center;
+ }
